@@ -1,0 +1,5 @@
+obj=car()
+result1=obj.purchase_price()
+result2=obj.sales_price()
+print(result1)
+print(result2)
